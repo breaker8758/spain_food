@@ -14,7 +14,8 @@
 - 칼솟타다 : 구운 대파
 - 토르티야(Tortilla) : 오믈렛
 - 풀포 가예고(Pulpo Gallego) : 문어 요리
-- 가스파초(Gazpacho) : 채소 냉국 전통요리
+- 가스파초(Gazpacho) : 전통 채소 냉국
+- 초리조(chorizo) : 전통 소시지
 
 
 # 간식
