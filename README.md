@@ -11,7 +11,7 @@
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F08Ev6%2FbtqW8FFFAUW%2Fhdtax29qndBzmjHpW0Yej0%2Fimg.jpg"/>
 
 - 바칼라오 (Bacalao) : 대구 요리
-- 칼솟타다
+- 칼솟타다 : 구운 대파
 
 
 # 간식
