@@ -13,6 +13,7 @@
 - 바칼라오 (Bacalao) : 대구 요리
 - 칼솟타다 : 구운 대파
 - 토르티야 (Tortilla) : 오믈렛
+- 풀포 가예고 (Pulpo Gallego) : 문어 요리
 
 
 # 간식
@@ -20,6 +21,7 @@
   <img src="https://cdn.imweb.me/upload/S2017101359e025984d346/c78c39f8ebe9d.jpg"/>
 - 마사판 (Mazapan) : 전통 과자
 - 엠빠나다 (Empanada) : 스페인식 만두
+- 플란 (Flan) : 커스타드 푸딩
 
 
 # 음료
