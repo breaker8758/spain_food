@@ -6,11 +6,14 @@
   <img src="https://cdn.imweb.me/upload/S2017101359e025984d346/b353a88385988.jpg"/>
 
 - 핀초스(Pintxos)
+  <img src="https://www.windsortour.co.kr/images/area_img/ES/MAD/ESMAD3400137_0009.jpg?CMD=resize&width=100%"/>
 
-- 감바스 알 아히요(Gambas al ajillo)
+- 감바스(Gambas)
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F08Ev6%2FbtqW8FFFAUW%2Fhdtax29qndBzmjHpW0Yej0%2Fimg.jpg"/>
 
 - 바칼라오(Bacalao) : 대구 요리
+  <img src="https://www.windsortour.co.kr/images/area_img/ES/MAD/ESMAD3400958_0001.jpg?CMD=resize&width=100%"/>
+  
 - 칼솟타다 : 구운 대파
 - 토르티야(Tortilla) : 오믈렛
 - 풀포 가예고(Pulpo Gallego) : 문어 요리
